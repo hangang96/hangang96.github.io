@@ -9,7 +9,7 @@ name: Rex Rumbold
 description: Rexrumbold的个人主页
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/hangang96/images/blob/main/brain-gcdbb8cc5c_640.jpg
+avatar: https://avatars.githubusercontent.com/u/77401162?s=400&u=b5e16e4e06e666de551b94f4f6aa07c8f6caf795&v=4
 
 #
 # Flags below are optional
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/hangang96
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: #
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
